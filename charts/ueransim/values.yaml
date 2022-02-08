@@ -62,9 +62,9 @@ image:
   debug: false
 
 
-mcc: '999'
-mnc: '70'
-tac: '0001'
+mcc: '208'
+mnc: '93'
+tac: '7'
 
 UECount: 4
 initialMSISDN: '0000000001'
